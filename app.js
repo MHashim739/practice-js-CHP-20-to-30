@@ -16,4 +16,12 @@
 // user2Input=user2Input.toLocaleUpperCase();
 // console.log(userInput);
 // console.log(user2Input);
+// var a="this is an apple";
+// a.slice(0,8);
+// console.log(a);
+// var b="this is an mango";
+// b=b[4]
+// console.log(b);
+
+
 
