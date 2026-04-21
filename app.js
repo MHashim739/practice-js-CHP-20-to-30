@@ -29,6 +29,10 @@
 // d=d.indexOf("an");
 // console.log(d);
 
+// var e="form sub mition";
+// e=e.charAt(2)
+// console.log(e);
+
 
 
 
