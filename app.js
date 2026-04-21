@@ -6,4 +6,14 @@
 // var b=9.1;
 // b=Math.ceil(b);
 // console.log(b);
+// var a ="this is an apple".toLocaleUpperCase();
+// var b="THIS IS AN APPLE".toLocaleLowerCase();
+// console.log( a);
+// console.log( b);
+// var userInput=prompt("enter your name")
+// var user2Input=prompt("enter your father name");
+// userInput=userInput.toUpperCase();
+// user2Input=user2Input.toLocaleUpperCase();
+// console.log(userInput);
+// console.log(user2Input);
 
