@@ -22,6 +22,13 @@
 // var b="this is an mango";
 // b=b[4]
 // console.log(b);
+// var c="boot kamap official page";
+// c=c.indexOf("page");
+// console.log(c);
+// var d="this is an shoes";
+// d=d.indexOf("an");
+// console.log(d);
+
 
 
 
