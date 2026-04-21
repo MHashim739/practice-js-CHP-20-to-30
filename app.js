@@ -32,6 +32,9 @@
 // var e="form sub mition";
 // e=e.charAt(2)
 // console.log(e);
+// var a="this is an banana";
+// a=a.replace("this is","that can be ");
+// console.log(a);
 
 
 
