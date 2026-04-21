@@ -51,5 +51,10 @@
 // console.log(num3);
 // console.log(num4);
 
+// // var a=20;
+// var a=Math.floor(Math.random() *10)+1;
+// console.log(Math.floor(Math.random() *10)+1);
+
+// console.log(a);
 
 
