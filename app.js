@@ -35,7 +35,21 @@
 // var a="this is an banana";
 // a=a.replace("this is","that can be ");
 // console.log(a);
-
+// var num=3.4;
+// var num1=3.5;
+// var num2=3.2;
+// var num3=3.8;
+// var num4=4.1;
+// num=Math.round(num);
+// num1=Math.round(num1);
+// num2=Math.floor(num2)
+// num3=Math.floor(num3);
+// num4=Math.ceil(num4);
+// console.log(num);
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
+// console.log(num4);
 
 
 
